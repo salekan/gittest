@@ -1,0 +1,15 @@
+body {
+  background-color: #178907;
+  color: #ffffff;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  color: yellow;
+}
+
+p {
+  font-size: 22px;
+}
