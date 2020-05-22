@@ -2,6 +2,7 @@ body {
   background-color: #1d491f;
   color: #ffffff;
   text-align: center;
+  margin: 0 50px;
 }
 
 section {
@@ -23,4 +24,8 @@ h1:first-child {
 p {
   font-size: 22px;
   color: #9ad9dc;
+}
+
+img {
+  margin-right: 30px;
 }
